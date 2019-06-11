@@ -1,0 +1,8 @@
+1. Choose ith element as pivot
+2. Start moving from leftside till left >= right
+3. Start moving from rightside
+(if right < left execute swap and start from 2)
+4. Continue till left and right instersect
+5. Place the pivot here and divide array wrt pivot
+(elements left to pivot <= pivot and pivot <= elements right to  pivot)
+6. Continue from 2 with the sub-arrays till all elements are greyed as pivot

@@ -1,0 +1,9 @@
+5 Disk Tower at A
+1 Disk Tower at C
+2 Disk Tower at B
+3 Disk Tower at C
+(Reflection)
+3 Disk Tower at A
+4 Disk Tower at B
+5 Disk Tower at C
+Code for 5 Disks

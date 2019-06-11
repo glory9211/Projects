@@ -1,0 +1,6 @@
+1. Start with the result as the first element of the input. 
+2. Loop over the input until it is empty, "removing" the first remaining (leftmost) element. 
+3. Compare the removed element against the current result, starting from the highest (rightmost) element, and working left towards the lowest element. 
+4. If the removed input element is lower than the current result element, copy that value into the following element to make room for the new element below, and repeat with the next lowest result element. 
+5. Otherwise, the new element is in the correct location; save it in the cell left by copying the last examined result up
+6. Start again from (2) with the next input element
